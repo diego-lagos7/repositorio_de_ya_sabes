@@ -1,0 +1,10 @@
+# Calcular el promedio ponderado de X notas
+canNotasSring = input("Ingrese la cantidad de evaluaciones: ")
+canNotas = int(canNotasSring)
+notas = []
+ponderaiones =[]
+suma = 0
+sumaPonderaciones = 0
+for i in range (0,canNotas):
+    notas.append(float(Input)("Ingrese la nota: "+ stri(i+1) + ": ")))
+    sumaPonderaciones
